@@ -42,3 +42,4 @@ int main()
         {
             return 20 * pow(x, 3) - 6 * pow(x, 2) + 6 * x + 1;
         }
+    }
