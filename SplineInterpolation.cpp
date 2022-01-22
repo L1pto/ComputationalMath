@@ -106,6 +106,6 @@ void printresult(){
     printf("A[k]\tB[k]\tC[k]\tD[k]\n");
     for (k = 1; k <= N; k++)
     {
-        printf("%f\t%f\t%f\t%f\n", y[k], b[k], c[k], d[k]);
+        printf("%f\t%f\t%f\t%f\n",y[k], b[k], c[k], d[k]);
     }
 }
